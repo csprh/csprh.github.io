@@ -9,9 +9,31 @@ body {
     min-width: 320px;
 }
 
+.list-social-icons a{color:#495057}
+.list-social-icons a:hover{color:#A0A0FF}
+.list-social-icons a .fa-lg{font-size:1.75rem}
+.list-icons{font-size:3rem}
+.list-icons
+.list-inline-item i:hover{color:#A0A0FF}
 
+a {
+    font-weight: bold;
+    color: #00A;
+    margin: 0;
+}
 
 a { font-weight: 500; }
+
+.list-inline {
+  padding-left: 0;
+  list-style: none;
+  margin-left: 0;
+}
+
+.list-inline-item {
+  display: inline-block;
+}
+
 /* Fix weird flickering in Safari */
 .noselect {
     -webkit-touch-callout: none;
