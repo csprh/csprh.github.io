@@ -56,7 +56,7 @@
 			<dt>Funders</dt>
 			<dd>British Council for funding: British Council Award ref 279334808</dd>
 			<dt>Collaborators</dt>
-			<dd>Kustar/ MASDAR, UAE; FWC, Florida</dd>
+			<dd>Kustar/ MASDAR, UAE; FWC, Florida; EAD, UAE</dd>
 		</dl>
             </div>
             <hr />
@@ -96,11 +96,7 @@
   year={2020},
   publisher={IEEE}}</pre>
             </div>
-            <hr />
-            <div class="container-md">
-                <h2>Acknowlegement</h2>
-                <p>We would like to thank the British Council for funding: British Council Award ref 279334808. The FWC for the ground truth data in Florida and EAD (UAE) for the ground truth data in the Arabian Gulf. </p>
-            </div>
+
         </div>
     </div>
 </body>
