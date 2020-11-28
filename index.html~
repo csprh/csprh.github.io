@@ -117,7 +117,7 @@
                 <a href="https://csprh.github.io/HABNET/">HABNet: Machine Learning, Remote Sensing Based Detection of Harmful Algal Blooms</a>
                     <p>This project is concerned with the application of machine learning techniques to develop a state-of-the-art detection and prediction system for spatiotemporal events found within remote sensing data; specifically, Harmful Algal Bloom events (HABs).</p>
                     <div class="line_sep"></div>
-                <h4><span class="bullet">￭</span><a href="https://seis.bristol.ac.uk/~eexna/research/volcanicUnrest.html">Automated Alert System for Volcanic Unrest</a></h4>
+                <a href="https://seis.bristol.ac.uk/~eexna/research/volcanicUnrest.html">Automated Alert System for Volcanic Unrest</a>
                     <p>Satellite radar (InSAR) can be employed to observe volcanic ground deformation, which has shown a significant statistical link to eruptions. The explosion in data has however brought major challenges associated with timely dissemination of information and distinguishing volcano deformation patterns from noise, which currently relies on manual inspection. Here, we present a novel approach to detect volcanic ground deformation automatically from InSAR images.</p>
                     <div class="line_sep"></div>
 
