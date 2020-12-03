@@ -10,7 +10,7 @@ body {
 }
 
 .list-social-icons a{color:#495057}
-.list-social-icons a:hover{color:#08837e}
+.list-social-icons a:hover{color:#A0A0FF}
 .list-social-icons a .fa-lg{font-size:1.75rem}
 .list-icons{font-size:3rem}
 .list-icons
@@ -18,12 +18,10 @@ body {
 
 a {
     font-weight: bold;
-    color: #3b6e8f;
+    color: #00A;
     margin: 0;
 }
-a:hover {
-    color: #08837e;
-}
+
 a { font-weight: 500; }
 
 .list-inline {
@@ -107,7 +105,4 @@ h2 {
   background: solid;
   background-color: #f0f0f0;
 
-}
-
-h5 {color: #555;
 }
