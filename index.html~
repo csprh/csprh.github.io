@@ -24,30 +24,30 @@
                         </div>
                         <div class="col-md-3">
                             <div class="title">
-                                <h1>Dr Paul Hill</h1> Senior Research Fellow in Image Communication <ul class="list-inline list-social-icons mb-0">
+				    <h1>Dr Paul Hill</h1>Senior Research Fellow in Image Communication
+			       <ul class="list-inline list-social-icons mb-0">
                                     <li class="list-inline-item">
                                         <a href="https://scholar.google.com/citations?user=luxEujEAAAAJ&hl=en">
-                                            <span class="fa-stack fa-lg">
-                                                <i class="ai ai-google-scholar-square ai-2x"></i>
+                                            <span class="fa-2x">
+                                                <i class="ai ai-google-scholar-square"></i>
                                             </span>
                                         </a>
                                     </li>
                                     <li class="list-inline-item">
                                         <a href="https://www.linkedin.com/in/paul-hill-28a844148/">
-                                            <span class="fa-stack fa-lg">
-                                                <i class="fa fa-square fa-stack-2x"></i>
-                                                <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                                            <span class="fa-2x">
+                                                <i class="fab fa-linkedin"></i>
                                             </span>
                                         </a>
                                     </li>
                                     <li class="list-inline-item">
                                         <a href="PRH_CV_2020.pdf">
-                                            <span class="fa-stack fa-lg">
-                                                <i class="ai ai-cv-square ai-2x"></i>
+                                            <span class="fa-2x">
+                                                <i class="ai ai-cv-square"></i>
                                             </span>
                                         </a>
                                     </li>
-                                </ul>
+			       </ul><
                             </div>
                         </div>
                         <div class="col-md-3">
@@ -93,7 +93,7 @@
                             <div class="col-md-6">
                             	<div class="container-md">
                                    <h2>Book</h2>
-                                   <p><a href='https://www.amazon.co.uk/Audio-Speech-Processing-MATLAB-Paul/dp/1498762743/'><img src="book.jpg" width="95%" height="45%" alt=""></a></p>
+                                   <p><a href='https://www.amazon.co.uk/Audio-Speech-Processing-MATLAB-Paul/dp/1498762743/'><img src="book.jpg" width="90%" height="45%" alt=""></a></p>
                                 </div>
                             </div>
                         </div>

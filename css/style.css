@@ -99,6 +99,11 @@ h2 {
     text-align: center;
 }
 
+.mobile-button .fa{
+  font-size: 50px;
+}
+
+
 .citation {
   white-space: pre-wrap;
   padding: 1em;
