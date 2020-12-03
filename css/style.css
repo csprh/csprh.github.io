@@ -94,15 +94,11 @@ h2 {
     background-color: #FFF;
 }
 
-.smartphone-alert {
-    display: none;
-    text-align: center;
+@media (max-width: 600px){
+    .fasmaller {
+        fa-4x
+    }
 }
-
-.mobile-button .fa{
-  font-size: 50px;
-}
-
 
 .citation {
   white-space: pre-wrap;
