@@ -94,7 +94,7 @@ h2 {
     background-color: #FFF;
 }
 
-@media (max-width: 2000px){
+@media (max-width: 600px){
     .fasmaller {
         fa-4x
     }
