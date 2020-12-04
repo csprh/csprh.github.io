@@ -12,15 +12,7 @@
 
     <!-- you should probably put some google analytics / meta bits and pieces
 	    here : PRH 
-    <meta property="og:title" content="Paul Hill's Website"> etc.
-      <script async src="https://www.googletagmanager.com/gtag/js?id=??????????"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', '??????????');
-  </script>
+    <meta property="og:title" content="Paul Hill's Website">
     -->
 </head>
 
