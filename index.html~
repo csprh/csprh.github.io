@@ -2,8 +2,12 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <title>Dr Paul Hill</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    
+    <title>Your Name</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
     <link rel="stylesheet" href="./css/style.css">
@@ -12,7 +16,15 @@
 
     <!-- you should probably put some google analytics / meta bits and pieces
 	    here : PRH 
-    <meta property="og:title" content="Paul Hill's Website">
+    <meta property="og:title" content="Paul Hill's Website"> etc.
+      <script async src="https://www.googletagmanager.com/gtag/js?id=??????????"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '??????????');
+  </script>
     -->
 </head>
 
@@ -29,10 +41,10 @@
                         </div>
                         <div class="col-md-6">
                             <div class="title">
-			        <h1>Dr Paul Hill</h1><h5>Lecturer, Senior Research Fellow</h5>
+			        <h1>Your Name</h1><h5>Roll Description</h5>
 				<p>1.23, 1 Cathedral Square, University of Bristol</p>
                                 <p>Bristol BS1 5DD, UK</p>
-                                <pre>csprh*at*bris.ac.uk</pre>
+                                <pre>username*at*bris.ac.uk</pre>
 			        <ul class="list-inline list-social-icons mb-0">
                                     <li class="list-inline-item">
                                         <a href="https://scholar.google.com/citations?user=luxEujEAAAAJ&hl=en">
@@ -65,8 +77,6 @@
 			       </ul>
                             </div>
                         </div>
-
-
 
 
                         <div class="col-md-3">

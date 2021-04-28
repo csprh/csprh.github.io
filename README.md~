@@ -3,11 +3,7 @@
 ## Download and Installation
 
 This website is created using [bootstrap](http://getbootstrap.com).  You can either install bootstrap and
-move the elements in this template accross or just fork / copy this repo.  For a
-personal template you should aim to get it mounted here
-http://yourgithubusername.github.io.  In order to do this just create a repo
-called yourigthubusername.github.io and github will automatically direct to the
-index.html file in this repo.
+move the elements in this template accross or just fork / copy this repo.
 
 ## Usage
 
